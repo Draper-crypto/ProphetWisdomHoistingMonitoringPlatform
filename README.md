@@ -1,2 +1,3 @@
 # ProphetWisdomHoistingMonitoringPlatform
-This is the Prophet Wisdom hoisting monitoring platform from the Prophet Studio of Nanjing Engineering higher Vocational School in Jiangsu Province, China. The project was created by a group of ambitious and innovative young people.
+这是中国江苏省南京工程高职学校先知工作室的先知智慧吊装监控平台。该项目是由一群雄心勃勃、富有创新精神的年轻人创建的。
+这是中国江苏省南京工程高职学校先知工作室的先知智慧吊装监控平台。该项目是由一群雄心勃勃、富有创新精神的年轻人创建的。
